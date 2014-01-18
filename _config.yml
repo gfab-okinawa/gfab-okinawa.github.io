@@ -1,0 +1,11 @@
+# Site settings
+title: gFab okinawa
+author: gFab okinawa
+description: gFab okinawa 公式サイト
+
+# Jekyll settings
+markdown: redcarpet
+redcarpet:
+  extensions: ['tables', 'autolink', 'no_intra_emphasis']
+exclude: ['vendor', 'Gemfile', 'Gemfile.lock']
+
