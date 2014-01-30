@@ -30,7 +30,10 @@ layout: default
 
 ## 開催スケジュール
 
-不定期開催中！
+
+<iframe src="https://www.google.com/calendar/embed?src=se82v6j65fjg225bsqge3gg1n8%40group.calendar.google.com&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;color=%23B1440E&amp;ctz=Asia%2FTokyo" style=" border-width:0 " width="600" height="320" frameborder="0" scrolling="no"></iframe>
+
+上記日程にて、不定期開催中！
 
 
 ## 主催 / 開催場所
