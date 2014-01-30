@@ -43,3 +43,8 @@ layout: default
 沖縄県那覇市金城3-8-9 一粒ビル401
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1789.9277311564106!2d127.66201072145006!3d26.201379697316952!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e569b7a6a5c44b%3A0xc496eb4f8e249928!2z5rKW57iE55yM6YKj6KaH5biC6YeR5Z-OMy04LTk!5e0!3m2!1sja!2sjp!4v1390010643099" width="600" height="450" frameborder="0" style="border:0"></iframe>
+
+
+## お問い合わせ
+
+[@mgwsuzuki](https://twitter.com/mgwsuzuki) までお気軽にどうぞ。
